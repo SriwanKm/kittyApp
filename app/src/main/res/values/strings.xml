@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KittyApp</string>
+    <string name="addTtmt">Add new treatment...</string>
+    <string name="addBtn">ADD</string>
+    <string name="meowBtn">MEOW!</string>
+    <string name="actionTxt">Brush my hair</string>
+
+</resources>
